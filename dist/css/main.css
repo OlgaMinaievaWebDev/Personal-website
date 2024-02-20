@@ -3,4 +3,10 @@
   padding: 0; }
 
 body {
-  font-family: "Playfair Display", serif; }
+  font-family: "Playfair Display", serif;
+  line-height: 1.5;
+  background: #fff; }
+
+a {
+  text-decoration: none;
+  color: #333; }
