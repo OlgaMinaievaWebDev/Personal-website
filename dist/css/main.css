@@ -56,6 +56,9 @@ h4 {
 img {
   width: 100%; }
 
+.txt-type .txt {
+  border-right: 0.2rem solid #777; }
+
 #logo {
   width: 250px;
   height: 90px; }

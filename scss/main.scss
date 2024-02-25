@@ -28,6 +28,13 @@ img {
   width: 100%;
 }
 
+// Cursor for typewrite function
+.txt-type {
+  .txt {
+    border-right: 0.2rem solid #777;
+  }
+}
+
 // Logo
 #logo {
   width: 250px;
@@ -85,8 +92,5 @@ img {
         line-height: 1.2;
       }
     }
-  }
-
-  &-inner {
   }
 }
